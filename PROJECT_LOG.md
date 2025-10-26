@@ -18,7 +18,7 @@ Each log entry includes:
 
 ## 🧭 Log Entries
 
-### 🗓️ 2025-10-26 — Starting the Garden
+### 🗓️ Day 1 of 100: 2025-10-26 — Starting the Garden
 **Focus:** Project setup and idea refinement  
 **Progress:**  
 - Created repo `plant-a-seed`  
@@ -36,8 +36,8 @@ Each log entry includes:
 - Focusing on the emotional experience first (not the tech stack) makes the idea feel real to me.
 
 **Next Action:**  
-- Start sketching or outlining **Garden View** and **Plant Seed Pop-Up** (Option A MVP).  
-- Create basic wireframes or component outline for these two screens.
+- Start sketching or outlining **Garden View** and **Plant Seed Pop-Up** [https://github.com/domensam/plant-a-seed/issues/1]
+- Create basic wireframes or component outline for these two screens. [https://github.com/domensam/plant-a-seed/issues/2]
 
 ---
 
