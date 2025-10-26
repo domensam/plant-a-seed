@@ -12,6 +12,7 @@ If this sounds like you, then this app is for you:
 > “When I try to improve my life (exercise more, learn a new language, read more books), I feel sooo unhappy and disconnected from my progress — sometimes even from my life.”
 
 Let’s be honest — if we only look forward to the *victory* and not the *journey*, lifelong improvement can start to feel like a chore.  
+
 Plant A Seed helps you fall back in love with your own growth 🌱
 
 ---
@@ -24,7 +25,7 @@ Plant A Seed helps you fall back in love with your own growth 🌱
   While watering, the app gently checks in on your **mood** and encourages you to celebrate your small wins.
 - You can also **write a petal letter** to your future self — a kind message that arrives back in your garden later, reminding you of how far you’ve come.
 
-Try it out and see how fun the journey of self-improvement can be — one seed, one step, one smile at a time. 🌸
+Try it out and see how fun the journey of self-improvement can be — one seed, one step, one petal at a time. 🌸
 
 ---
 
